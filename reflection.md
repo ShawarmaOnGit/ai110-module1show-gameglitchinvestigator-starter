@@ -8,6 +8,11 @@ Answer each question in 3 to 5 sentences. Be specific and honest about what actu
 - List at least two concrete bugs you noticed at the start  
   (for example: "the hints were backwards").
 
+  - 1. Hint always said "GO LOWER" dispite already being lower than the actual number
+  - 2. The sidebar says medium has 8 attempts, but the attempts start at 7 in the UI
+  - 3. The game ended dispite having 1 more attempt left
+  - 4. The hard level had a smaller range than the medium level (1-50)
+
 ---
 
 ## 2. How did you use AI as a teammate?
